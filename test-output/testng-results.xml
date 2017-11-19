@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="187" passed="187">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="399" started-at="2017-11-19T17:29:00Z" finished-at="2017-11-19T17:29:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="399" started-at="2017-11-19T17:29:00Z" finished-at="2017-11-19T17:29:00Z">
+      <class name="happynumbers.TestHappyNumbers">
+        <test-method status="PASS" signature="testDataProvider()[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testDataProvider" duration-ms="56" started-at="2017-11-19T19:29:00Z" finished-at="2017-11-19T19:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method status="PASS" signature="testHappyNumberOccurence()[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumberOccurence" duration-ms="6" started-at="2017-11-19T19:29:00Z" finished-at="2017-11-19T19:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumberOccurence -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="3" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[79]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[82]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[91]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="2" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[94]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[97]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[103]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[109]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[129]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[133]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[139]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[167]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[176]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[188]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[190]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[192]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[193]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[203]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[208]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[219]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[226]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[230]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[236]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[239]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[262]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[263]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[280]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[291]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[293]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[301]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[302]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[310]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[313]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="9" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[320]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[326]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[329]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[331]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[338]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[356]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[362]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[365]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[367]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[368]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[376]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[379]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[383]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[386]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[391]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[392]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[397]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[404]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[409]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[440]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[446]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[464]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="2" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[469]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[478]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[487]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[490]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[496]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="12" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[536]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[556]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[563]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[565]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[566]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[608]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[617]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[622]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[623]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[632]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[635]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[637]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="8" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[638]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[644]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[649]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[653]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[655]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[656]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[665]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[671]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[673]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[680]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[683]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[709]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[716]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[736]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[739]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[748]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[761]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[763]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[784]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[790]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[793]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[802]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[806]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[818]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[820]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[833]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="7" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[836]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[847]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[860]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[863]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[874]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[881]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[899]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[901]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[904]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[907]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[910]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[912]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[913]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="3" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[921]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[923]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[931]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[932]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[937]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[940]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[946]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[964]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[970]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[973]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[989]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[998]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testHappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testHappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="HappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHappyNumbers -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[998877665]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[485]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[243]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[260]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-2147483648]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[275]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="3" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[729]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[162]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSum(java.lang.Integer, java.lang.Integer)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testSum" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="DigitsSum" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testUnhappyData()[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyData" duration-ms="2" started-at="2017-11-19T19:29:00Z" finished-at="2017-11-19T19:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyData -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[98]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[101]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[102]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[240]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[202]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[323]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="5" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[600]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="1" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[935]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[848]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+        <test-method status="PASS" signature="testUnhappyNumbers(java.lang.Integer, boolean)[pri:0, instance:happynumbers.TestHappyNumbers@5056dfcb]" name="testUnhappyNumbers" duration-ms="0" started-at="2017-11-19T19:29:00Z" data-provider="UnhappyNumbers" finished-at="2017-11-19T19:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnhappyNumbers -->
+      </class> <!-- happynumbers.TestHappyNumbers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
